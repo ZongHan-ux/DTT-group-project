@@ -1,1 +1,3 @@
-
+pyaudio==0.2.13
+speech_recognition==3.10
+googletrans==4.0.0
